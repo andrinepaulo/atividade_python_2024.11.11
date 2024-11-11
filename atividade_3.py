@@ -7,4 +7,3 @@ elif sexo =="M" or sexo =="m":
 else:
     print("Sexo invalido")
 
-    
